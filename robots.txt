@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://newyangs007.github.io/food-waste-insight/sitemap.xml
